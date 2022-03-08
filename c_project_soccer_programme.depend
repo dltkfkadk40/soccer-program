@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1646265464 source:c:\workspace\codeblocks\codeblocks\workspace\c_project_soccer_programme\main.c
+	"soccer.h"
+
+1646265517 c:\workspace\codeblocks\codeblocks\workspace\c_project_soccer_programme\soccer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
